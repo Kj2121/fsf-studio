@@ -1,0 +1,13 @@
+/*
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Embedder-Policy: require-corp
+
+/ffmpeg-core.wasm
+  Content-Type: application/wasm
+  Cross-Origin-Resource-Policy: cross-origin
+
+/ffmpeg-core.js
+  Cross-Origin-Resource-Policy: cross-origin
+
+/ffmpeg.js
+  Cross-Origin-Resource-Policy: cross-origin
